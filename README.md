@@ -7,5 +7,3 @@ This is my portfolio. My motivation was needing to display my skills to future e
 ## MIT License
 
 ## Link to repo
-
-
